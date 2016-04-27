@@ -1,3 +1,6 @@
+# Project Status :
+This plugin is not being supported by the seneca organization,  and is no longer proven to work.
+If you are interested in maintaining this project, please contact us via the issue queue.
 # seneca-PBKDF2-user
 [![Build Status](https://travis-ci.org/piccoloaiutante/seneca-PBKDF2-user.png?branch=master)](https://travis-ci.org/piccoloaiutante/seneca-PBKDF2-user)
 ## A [Seneca](http://senecajs.org) plugin for supporting PbkDf2 password encryption. 
